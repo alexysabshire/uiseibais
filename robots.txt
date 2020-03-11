@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oomichiora.mentalcapacitycat.co.uk/sitemap.xml
